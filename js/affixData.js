@@ -10634,6 +10634,7 @@ let data = {
                 30,
                 50
             ],
+            status: 1,
             effect: "ALL(+15), HP(+15), PP(+2)"
         },
         {
@@ -10641,10 +10642,6 @@ let data = {
             code: "TN11",
             gid: "AC",
             name: "Absolute Glare",
-            extend: [
-                30,
-                50
-            ],
             effect: "ALL(+40), HP(+30), PP(+3)"
         },
         {
